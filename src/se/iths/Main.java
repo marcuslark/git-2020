@@ -3,6 +3,6 @@ package se.iths;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Fifth version - main branch");
+        System.out.println("Fifth version - hejhejhej branch");
     }
 }
