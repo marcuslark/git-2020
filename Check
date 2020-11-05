@@ -1,0 +1,29 @@
+[33mcommit b16417734f0eaf9dda3c0314c7cd8c3fccf69190[m[33m ([m[1;32mmain[m[33m)[m
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Thu Nov 5 11:24:56 2020 +0100
+
+    Fifth version
+
+[33mcommit 24401ae5571931ca151bc58945b7b2da9933733c[m[33m ([m[1;36mHEAD -> [m[1;32mnew_feature[m[33m, [m[1;31morigin/new_feature[m[33m)[m
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Thu Nov 5 11:08:10 2020 +0100
+
+    Fourth version, with new feature
+
+[33mcommit dfc84786dd854f60bcf8f474c71a0a5e71bee7b8[m
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Thu Nov 5 10:53:54 2020 +0100
+
+    Third commit, with new feature
+
+[33mcommit 6177d5145042744a67550cba615a74e80433f335[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Thu Nov 5 10:46:34 2020 +0100
+
+    Second commit
+
+[33mcommit 54944ec3bc1d529870b85cd90d6826e0d3261e3b[m
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Thu Nov 5 10:44:04 2020 +0100
+
+    First commit
